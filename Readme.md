@@ -1,4 +1,4 @@
-# Team 1
+## This was a class project from my software engineering class, CSCI 5801. We utilized Agile Scrum and Waterfall for development processes. This code is a collection of my team's efforts. My efforts specifically focus on the Election, Candidate, and GUI classes as well as the Election and Candidate test files.
 
 ## Instructions for running the Voting System from the command line
 
